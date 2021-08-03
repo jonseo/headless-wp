@@ -32,7 +32,7 @@ section.masthead {
       rgba(0, 0, 0, 0) 37%,
       rgba(0, 0, 0, 0.65) 100%
     ),
-    url("/mountains-masthead.jpg") no-repeat center center scroll; /* FF3.6-15 */
+    url("http://nwsportsmanmag.com/wp-content/uploads/2020/04/cropped-old_ns_logo.jpg") no-repeat center center scroll; /* FF3.6-15 */
   background: -webkit-radial-gradient(
       center,
       ellipse cover,
