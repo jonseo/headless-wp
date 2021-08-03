@@ -13,7 +13,9 @@
         </div>
       </main>
       <aside>
-        <h2 class="tags-title">Tags</h2>
+        <h2 class="tags-title">Tags</h2><br/>
+        <img src="https://nwsportsmanmag.com/wp-content/uploads/2021/07/ns_cover.png" width="175" />
+        <br/>
         <div class="tags-list">
           <ul>
             <li
