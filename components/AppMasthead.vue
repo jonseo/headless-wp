@@ -4,15 +4,15 @@
   </section>
 </template>
 
-<script>
+<!--script>
 export default {
   data() {
     return {
-      tagline: ""
+      tagline: "Northwest Sportsman Mag"
     };
   }
 };
-</script>
+</script-->
 
 <style lang="scss" scoped>
 @import "@/assets/mixins.scss";
