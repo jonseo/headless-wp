@@ -8,7 +8,7 @@
 export default {
   data() {
     return {
-      tagline: "Northwest Sportsman Mag on JAMSTACK"
+      tagline: ""
     };
   }
 };
@@ -18,7 +18,7 @@ export default {
 @import "@/assets/mixins.scss";
 section.masthead {
   width: 100%;
-  height: 90vh;
+  height: 0vh;
   overflow: hidden;
   text-align: center;
   display: flex;
