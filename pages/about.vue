@@ -1,4 +1,5 @@
 <template>
+  <app-masthead></app-masthead>
   <div class="about">
     <h1>About</h1>
     <p>We don't really know where this goes - and I'm not sure we really care. If these lines aren't straight, your water's going to run right out of your painting and get your floor wet. If you do too much it's going to lose its effectiveness.</p>
