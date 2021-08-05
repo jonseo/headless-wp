@@ -7,8 +7,8 @@
     and also covers local issues and uplifting stories of sports enthusiasts throughout the region.<br/>
 <br/>
 We are the only locally based hunting and fishing magazine in the Northwest. All of our editors, writers and sales team are located in Washington, Oregon,<br/>
-Idaho and Montana. We are published by Media Index of Seattle and are located only about 20 blocks from where Bill Farden built Fishing & Hunting News into<r/>
-the premier hook-and-bullet publication from the 1960s-2000s. After F&H went out of business in late July 2008, several former salesmen and an editor were hired<br/>
+Idaho and Montana. We are published by Media Index of Seattle and are located only about 20 blocks from where Bill Farden built Fishing and Hunting News into<r/>
+the premier hook-and-bullet publication from the 1960s-2000s. After F and H went out of business in late July 2008, several former salesmen and an editor were hired<br/>
 by Media Index to do something similar.<br/>
 <br/>
 In our online edition, we spotlight interesting daily stories, breaking news, game scoflaws and more. To contact us, call 206-382-9220 or<br/>
