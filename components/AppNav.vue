@@ -13,7 +13,7 @@
   </div>
 </template>
 
-<script>
+<!--script>
 import AppIcon from "@/components/AppIcon.vue";
 
 export default {
@@ -21,7 +21,7 @@ export default {
     AppIcon
   }
 };
-</script>
+</script-->
 
 <style lang="scss" scoped>
 .nav {
