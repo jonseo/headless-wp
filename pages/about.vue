@@ -1,5 +1,6 @@
 <template>
-  
+ <div>
+    <app-masthead></app-masthead>
   <div class="about">
   
     <h1>About Us</h1>
@@ -13,6 +14,7 @@ the premier hook-and-bullet publication from the 1960s-2000s. After F and H went
 In our online edition, we spotlight interesting daily stories, breaking news, game scoflaws and more. To contact us, call 206-382-9220 or<br/>
 email awalgamott@media-inc.com. Thanks!</p>
     </div>
+   </div>
 </template>
 
 <script>
