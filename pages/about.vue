@@ -2,7 +2,7 @@
   
   <div class="about">
   
-    <h1>About</h1>
+    <h1>About Us</h1>
     <p>Northwest Sportsman, a locally produced magazine with all of our staff based here in the Northwest, details where and how to fish and hunt this great region,
     and also covers local issues and uplifting stories of sports enthusiasts throughout the region.<br/>
 <br/>
