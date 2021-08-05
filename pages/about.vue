@@ -11,8 +11,7 @@ We are the only locally based hunting and fishing magazine in the Northwest. All
 Idaho and Montana. We are published by Media Index of Seattle and are located only about 20 blocks from where Bill Farden built Fishing & Hunting News into<r/>
 the premier hook-and-bullet publication from the 1960s-2000s. After F&H went out of business in late July 2008, several former salesmen and an editor were hired by Media Index to do something similar.<br/>
 <br/>
-In our online edition, we spotlight interesting daily stories, breaking news, game scoflaws and more. To contact us, call 206-382-9220 or<br/>
-email awalgamott@media-inc.com. Thanks!</p>
+In our online edition, we spotlight interesting daily stories, breaking news, game scoflaws and more. To contact us, call 206-382-9220 or email awalgamott@media-inc.com. Thanks!</p>
     </div>
    </div>
 </template>
