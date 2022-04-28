@@ -55,7 +55,7 @@ h1 {
 }
 
 img {
-  width: 100%;
+  width: 75%;
 }
 
 video {
